@@ -8,4 +8,5 @@ By defaul commands output execution time. If you want to see detailed XHProf rep
 3. Set your own values for environment variables related to MongoDB.
 4. Set required version of ODM lobrary in `composer.json`.
 5. Install dependencies.
+6. Run `./bin/console app:populate` for database population with data for benchmarking.
 6. If you dont know from where to start - type `./bin/console` for showing full list of available commands. Commands with benchmarks prefixed with `app:`
